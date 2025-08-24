@@ -1,6 +1,6 @@
-# YouTube Audio Downloader
+#  Audio Downloader
 
-A Python tool to download audio from YouTube videos as MP3 files using `yt-dlp` and `ffmpeg`.
+A Python tool to download audio from videos as MP3 files using `yt-dlp` and `ffmpeg`.
 
 ## Features
 
